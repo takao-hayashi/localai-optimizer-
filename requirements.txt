@@ -1,0 +1,8 @@
+transformers
+optimum
+onnxruntime
+llama-cpp-python
+tqdm
+rich
+
+
