@@ -1,0 +1,2 @@
+[console_scripts]
+localai = localai_optimizer.cli:main

@@ -1,0 +1,6 @@
+
+[dev]
+pytest
+black
+flake8
+mypy
